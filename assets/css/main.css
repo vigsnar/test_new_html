@@ -2053,9 +2053,9 @@ input, select, textarea {
 		left: 0;
 		overflow-y: auto;
 		position: fixed;
-		text-align: right;
+		text-align: justify;
 		top: 0;
-		width: 450px;
+		width: 200px;
 	}
 
 		#header .top {
